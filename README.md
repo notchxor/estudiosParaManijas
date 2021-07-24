@@ -12,6 +12,7 @@ Son pequeños ejercicios que aumentan en dificultad, partiendo de armonia y ritm
 6, Espacio
 7. Timbre
 8. electronica
+9. Spectromorfologias
 
 ---
 
@@ -86,3 +87,10 @@ Con Sampleo y sintesis componer una o mas obras con estructuras primarias que tr
 ## Electronica
 1) Armar libreria spectromorfologica con samples
 2) Armar libreria spectromorfologica con sintesis
+
+
+# Spectromorfologias
+
+![image](https://user-images.githubusercontent.com/36687486/126877461-20bc7ca1-846b-4aca-a973-5bf1a319e1a1.png)
+
+
